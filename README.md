@@ -1,2 +1,2 @@
 # hostCopy
-Copy available host Google from Internet 
+从互联网收集 
