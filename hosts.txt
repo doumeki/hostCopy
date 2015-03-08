@@ -612,7 +612,7 @@
 64.233.180.199    www.google.cn 
 #google.cn end
 #begin
-203.208.46.132    accounts.l.google.com
+64.233.180.199    accounts.l.google.com
 64.233.180.199    csi.l.google.com 
 64.233.180.199    googleapis.l.google.com
 64.233.180.199    maps.l.google.com
@@ -675,16 +675,16 @@
 64.233.180.199    gwt.googlesource.com
 #google source end
 #google anroid begin(access via http)
-119.161.83.6    android.com
-119.161.83.6    www.android.com
-119.161.83.6    developer.android.com  
-119.161.83.6    market.android.com 
-119.161.83.6    source.android.com
-119.161.83.6    panoramio.com 
-119.161.83.6    www.panoramio.com 
-119.161.83.6    static.panoramio.com 
-119.161.83.6    www.webmproject.org 
-119.161.83.6    golang.org 
-119.161.83.6    play.golang.org 
+119.161.83.12    android.com
+119.161.83.12    www.android.com
+119.161.83.12    developer.android.com  
+119.161.83.12    market.android.com 
+119.161.83.12    source.android.com
+119.161.83.12    panoramio.com 
+119.161.83.12    www.panoramio.com 
+119.161.83.12    static.panoramio.com 
+119.161.83.12    www.webmproject.org 
+119.161.83.12    golang.org 
+119.161.83.12    play.golang.org 
 #google android end
 #google-hosts-2015-end
