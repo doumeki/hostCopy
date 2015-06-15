@@ -359,7 +359,7 @@
 64.233.162.81  clients6.google.com
 64.233.162.81  0.client-channel.google.com 
 64.233.162.81  1.client-channel.google.com 
-64.233.162.84nnel.google.com 
+64.233.162.84  nnel.google.com 
 64.233.162.81  3.client-channel.google.com 
 64.233.162.81  4.client-channel.google.com 
 64.233.162.81  5.client-channel.google.com 
